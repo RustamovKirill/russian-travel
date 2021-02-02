@@ -21,5 +21,4 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
-Спасибо)
-ссылка на 3 проект "Первая адаптивная верстка" https://rustamovkirill.github.io/russian-travel/
+ссылка на 3 проект ["Первая адаптивная верстка"](https://rustamovkirill.github.io/russian-travel/)
