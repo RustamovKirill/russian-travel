@@ -1,0 +1,26 @@
+.page {
+    max-width: 1280px;
+    margin: 0px auto;
+    color: #ffffff;
+    background-color: #2A2C2F;
+}
+@media screen and (max-width: 1024px) {
+    .page {
+        max-width: 1024px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .page {
+        max-width: 768px;
+    }
+}
+@media screen and (max-width: 425px) {
+    .page {
+        max-width: 425px;
+    }
+}
+@media screen and (max-width: 320px) {
+    .page {
+        max-width: 320px;
+    }
+}

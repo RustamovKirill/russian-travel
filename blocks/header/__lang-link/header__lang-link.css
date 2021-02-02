@@ -1,0 +1,28 @@
+.header__lang-link {
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 117%;
+    text-decoration: none;
+    width: 29px;
+    height: 28px;
+}
+.header__lang-link:nth-child(1) {
+    text-decoration: underline;
+    margin-right: 18px;
+    width: 30px;
+    height: 28px;
+}
+@media screen and (max-width: 320px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 111%;
+        width: 22px;
+        height: 20px;
+    }
+    .header__lang-link:nth-child(1) {
+        text-decoration: underline;
+        margin-right: 18px;
+    }
+}

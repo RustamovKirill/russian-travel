@@ -1,0 +1,19 @@
+.lead__caption {
+    margin: 8px 0px 0px;
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 140%;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+}
+@media screen and (max-width: 768px) {
+    .lead__caption {
+        margin: 8px 0px 0px 24px;
+    }
+}
+@media screen and (max-width: 320px) {
+    .lead__caption {
+        margin: 8px 0px 0px 16px;
+    }
+}
