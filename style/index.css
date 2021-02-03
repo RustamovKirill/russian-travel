@@ -1,6 +1,7 @@
 @import url("../vendor/normalize.css");
 @import url("../blocks/page/page.css");
 @import url("/style/fonts.css");
+
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__logo/header__logo.css");
 @import url("../blocks/header/__lang/header__lang.css");
@@ -25,8 +26,8 @@
 @import url("../blocks/place/__title/place__title.css");
 @import url("../blocks/place/__image/place__image.css");
 @import url("../blocks/place/__website/place__website.css");
-@import url("../blocks/place/__website/__url-heading/place__website__url-heading.css");
-@import url("../blocks/place/__website/__link/place__website__link.css");
+@import url("../blocks/place/__url-heading/place__url-heading.css");
+@import url("../blocks/place/__link/place__link.css");
 @import url("../blocks/place/__area-text/place__area-text.css");
 @import url("../blocks/place/__paragraph/place__paragraph.css");
 

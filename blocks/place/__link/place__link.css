@@ -1,4 +1,4 @@
-.place__website__link {
+.place__link {
     margin: 0px auto 0px 0px;
     font-family: 'Inter', sans-serif;
     font-size: 18px;
@@ -9,6 +9,6 @@
     cursor: url("../../../../images/Pointer.png"), pointer;
     opacity: 1;
 }
-.place__website__link:hover {
+.place__link:hover {
     opacity: 0.8;
 }
