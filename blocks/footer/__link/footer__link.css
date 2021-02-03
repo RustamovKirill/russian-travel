@@ -1,14 +1,13 @@
 .footer__link {
-    margin-right: 18px;
+    margin: 0px 18px 0px 0px;
     font-family: 'Inter', sans-serif;
     font-size: 16px;
     line-height: 112%;
     font-weight: normal;
     text-decoration: none;
     color: #ffffff;
-    cursor: url("../../../../images/Pointer.png"), pointer;
+    cursor: url("../../../images/cursor.png"), url("../../../images/cursor.cur"), pointer;
     opacity: 1;
-    
 }
 .footer__link:hover {
     opacity: 0.8;
@@ -16,17 +15,21 @@
 .footer__link:nth-child(5) {
     margin: 0px;
 }
+@media screen and (max-width: 425px) {
+    .footer__link {
+        margin: 0px auto 32px 0px;
+    }
+}
 @media screen and (max-width: 320px) {
     .footer__link {
-        margin: 32px auto 0px 0px;
+        margin: 0px auto 32px 0px;
         font-size: 24px;
-        line-height: 100%;
     }
     .footer__link:nth-child(1) {
-        margin: 0px 230px 0px 0px;
+        margin: 0px auto 0px 0px;
     }
     .footer__link:nth-child(5) {
-        margin: 32px auto 0px 0px;
+        margin: 0px auto 0px 0px;
     }
 
 }

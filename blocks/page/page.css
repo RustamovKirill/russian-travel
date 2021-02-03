@@ -3,6 +3,7 @@
     margin: 0px auto;
     color: #ffffff;
     background-color: #2A2C2F;
+    text-rendering: optimizeLegibility;
 }
 @media screen and (max-width: 1024px) {
     .page {

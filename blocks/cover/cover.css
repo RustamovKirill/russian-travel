@@ -21,20 +21,20 @@
 @media screen and (max-width: 425px) {
     .cover {
         max-width: 420px;
-        max-height: 300px;
+        /*max-height: 300px;*/
     }
 }
 @media screen and (max-width: 375px) {
     .cover {
         max-width: 371px;
-        max-height: 250px;
+        /*max-height: 250px;*/
     }
 }
 @media screen and (max-width: 320px) {
     .cover {
         margin: 66px 0px 0px;
         max-width: 320px;
-        max-height: 200px;
+        /*max-height: 200px;*/
     }
 
 }

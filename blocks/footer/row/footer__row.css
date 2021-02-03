@@ -1,0 +1,11 @@
+.footer__row {
+    margin: 0px;
+}
+@media screen and (max-width: 425px) {
+    .footer__row {
+        margin-bottom: 32px;
+    }
+    .footer__row:last-child {
+        margin-bottom: 0px;
+    }
+}

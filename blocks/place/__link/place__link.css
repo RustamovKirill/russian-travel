@@ -6,7 +6,7 @@
     font-weight: normal;
     text-decoration: underline;
     color: #ffffff;
-    cursor: url("../../../../images/Pointer.png"), pointer;
+    cursor: url("../../../images/cursor.png"), url("../../../images/cursor.cur"), pointer;
     opacity: 1;
 }
 .place__link:hover {

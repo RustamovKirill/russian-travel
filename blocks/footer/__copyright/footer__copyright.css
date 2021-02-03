@@ -4,15 +4,18 @@
     font-size: 14px;
     line-height: 114%;
     font-weight: normal;
+    align-self: center;
 }
 @media screen and (max-width: 425px) {
     .footer__copyright {
         line-height: 100%;
+        align-self: flex-end;
     }
 }
 @media screen and (max-width: 320px) {
     .footer__copyright {
         line-height: 100%;
+        align-self: flex-start;
     }
 
 }
