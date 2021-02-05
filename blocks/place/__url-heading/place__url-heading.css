@@ -1,5 +1,6 @@
 .place__url-heading {
     margin: 0px auto 12px 0px;
+    display: block;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-size: 12px;
     line-height: 100%;

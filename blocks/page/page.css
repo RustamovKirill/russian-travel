@@ -1,19 +1,30 @@
 .page {
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    box-sizing: border-box;
     max-width: 1280px;
+    min-width: 320px;
     margin: 0px auto;
     color: #ffffff;
     background-color: #2A2C2F;
     text-rendering: optimizeLegibility;
-    -moz-osx-font-smoothing: grayscale;
+
 }
 @media screen and (max-width: 1024px) {
     .page {
-        max-width: 1024px;
+        max-width: 100vw;
     }
 }
-@media screen and (max-width: 768px) {
+/*@media screen and (max-width: 768px) {
     .page {
         max-width: 768px;
+    }
+}
+@media screen and (max-width: 620px) {
+    .page {
+        max-width: 620px;
     }
 }
 @media screen and (max-width: 425px) {
@@ -25,4 +36,4 @@
     .page {
         max-width: 320px;
     }
-}
+}*/

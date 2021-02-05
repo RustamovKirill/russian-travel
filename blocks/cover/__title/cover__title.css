@@ -8,12 +8,16 @@
     text-align: center;
     text-decoration: none;
 }
+@media screen and (max-width: 635px) {
+    .cover__title {
+        font-size: 10vw;
+    }
+}
 @media screen and (max-width: 425px) {
     .cover__title {
         min-width: 288px;
         font-size: 40px;
         line-height: 109%;
-        text-align: center;
      }
 
 }
@@ -22,6 +26,5 @@
        min-width: 288px;
        font-size: 32px;
        line-height: 109%;
-       text-align: center;
     }
 }

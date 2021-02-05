@@ -12,9 +12,7 @@
 .footer__link:hover {
     opacity: 0.8;
 }
-.footer__link:nth-child(5) {
-    margin: 0px;
-}
+
 @media screen and (max-width: 425px) {
     .footer__link {
         margin: 0px auto 32px 0px;
@@ -28,8 +26,4 @@
     .footer__link:nth-child(1) {
         margin: 0px auto 0px 0px;
     }
-    .footer__link:nth-child(5) {
-        margin: 0px auto 0px 0px;
-    }
-
 }

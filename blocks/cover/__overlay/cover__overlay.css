@@ -14,20 +14,31 @@
 .cover__overlay:hover {
     background-color: rgb(42, 44, 47, 0.8);
 }
+@media screen and (max-width: 1024px) {
+    .cover__overlay {
+        min-height: 640px;
+    }
+}
+@media screen and (max-width: 768px) {
+   .cover__overlay {
+       min-height: 480px;
+   }
+}
+
 @media screen and (max-width: 425px) {
     .cover__overlay {
-        max-width: 420px;
-        /*min-height: 300px;*/
+        max-width: 425px;
+        min-height: 300px;
     }
 }
 @media screen and (max-width: 375px) {
     .cover__overlay {
-        min-height: 371px;
+        min-height: 250px;
     }
 }
 @media screen and (max-width: 320px) {
    .cover__overlay {
        width: 100%;
-       /*min-height: 200px;*/
+       min-height: 200px;
    }
 }
