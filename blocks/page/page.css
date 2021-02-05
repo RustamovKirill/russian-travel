@@ -4,6 +4,7 @@
     color: #ffffff;
     background-color: #2A2C2F;
     text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (max-width: 1024px) {
     .page {
