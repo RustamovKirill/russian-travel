@@ -3,7 +3,7 @@
     font-family: 'Inter';
     font-size: 14px;
     line-height: 114%;
-    font-weight: normal;
+    font-weight: 400;
     align-self: center;
 }
 @media screen and (max-width: 425px) {

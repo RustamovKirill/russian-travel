@@ -2,8 +2,8 @@
     margin: 0px 18px 0px 0px;
     font-family: 'Inter';
     font-size: 16px;
-    line-height: 112%;
-    font-weight: normal;
+    line-height: 1.2;
+    font-weight: 400;
     text-decoration: none;
     color: #ffffff;
     cursor: url("../../../images/cursor.png"), url("../../../images/cursor.cur"), pointer;
