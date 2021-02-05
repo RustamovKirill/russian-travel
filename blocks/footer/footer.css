@@ -4,11 +4,6 @@
     display: flex;
     justify-content: space-between;
 }
-@media screen and (max-width: 1280px) {
-    .footer {
-        max-width: ;
-    }
-}
 @media screen and (max-width: 1024px) {
     .footer {
         max-width: 928px;
