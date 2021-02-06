@@ -6,9 +6,9 @@
 
 **Внизу представлены ссылки на макет сайта и на готовый проект:**
 
-* ["На макет в Figma"](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
+* [На макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
 
-* ["На страницу проекта"](https://rustamovkirill.github.io/russian-travel/)
+* [На страницу проекта](https://rustamovkirill.github.io/russian-travel/)
 ### Использованные технологии:
 
 * HTML и Css
