@@ -1,6 +1,5 @@
 .intro {
     max-width: 690px;
-    /*min-height: 429px;*/
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -15,6 +14,7 @@
 @media screen and (max-width: 768px) {
     .intro {
         margin: 88px 24px;
+        max-width: 720px;
     }
 }
 @media screen and (max-width: 320px) {

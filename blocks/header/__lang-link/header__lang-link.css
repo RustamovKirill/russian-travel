@@ -1,31 +1,25 @@
 .header__lang-link {
+    margin: 0px;
     color: white;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-weight: normal;
     font-size: 24px;
     line-height: 117%;
     text-decoration: none;
-    /*width: 29px;
-    height: 28px;*/
     cursor: url("../../../images/cursor.png"), url("../../../images/cursor.cur"), pointer;
     opacity: 1;
 }
 .header__lang-link:hover {
     opacity: 0.8;
 }
-.header__lang-link:nth-child(1) {
-    margin-right: 18px;
-    /*width: 30px;
-    height: 28px;*/
+@media screen and (max-width: 321px) {
+    .header__lang-link {
+        font-size: 19px;
+    }
 }
 @media screen and (max-width: 320px) {
     .header__lang-link {
         font-size: 18px;
         line-height: 111%;
-        /*width: 22px;
-        height: 20px;*/
-    }
-    .header__lang-link:nth-child(1) {  
-        margin-right: 18px;
     }
 }
